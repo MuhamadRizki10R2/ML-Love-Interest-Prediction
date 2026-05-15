@@ -104,7 +104,8 @@ love-interest-prediction/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/love-interest-prediction.git
+git clone https://github.com/MuhamadRizki10R2/ML-Love-Interest-Prediction
+.git
 ```
 
 ---
@@ -112,7 +113,7 @@ git clone https://github.com/yourusername/love-interest-prediction.git
 ## 2. Enter Project Folder
 
 ```bash
-cd love-interest-prediction
+cd ML-Love-Interest-Prediction
 ```
 
 ---
